@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="18AB6F0F-6F0E-413B-B234-E6DA6B3EE4EB">
+  <lastEdited clientType="local-build-20151002" date="2015-10-02 13:12:56 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;25th April 2014,  Taking part at &lt;/b&gt;&lt;b&gt;&lt;i&gt;Lebbeus Woods - Tributes and Reminiscences&lt;/i&gt;&lt;/b&gt;&lt;b&gt; in Cooper Union, I.S.Chanin School of Architecture, NYC&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;&lt;i&gt;The Storm&lt;/i&gt;&lt;/b&gt;&lt;b&gt; drawing, Lebbeus Woods, 2002, part of &lt;/b&gt;&lt;b&gt;&lt;i&gt;The Storm&lt;/i&gt;&lt;/b&gt;&lt;b&gt; installation @ the Cooper Union, &#xD;I.S.Chanin School of Architecture &lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#x2028;&#x2028;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="25_April_2014,_Taking_part_at_Lebbeus_Woods_-_Tributes_and_Reminiscences_in_Cooper_Union,_School_of_Architecture,_NYC_files/shapeimage_1.png" left="0px" top="0px" width="572px" height="84px"/>
+</content>

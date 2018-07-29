@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="18AB6F0F-6F0E-413B-B234-E6DA6B3EE4EB">
+  <lastEdited clientType="local-build-20151002" date="2015-10-02 13:12:59 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;2nd- 6th of June 2014,  &lt;/b&gt;&lt;b&gt;&lt;i&gt;Take My Hand &lt;/i&gt;&lt;/b&gt;&lt;b&gt;- Construction on site;  Placa de la Merce is slowly transformed&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, 2 June 2014&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="2_2nd-_6th_of_June_2014,_Take_My_Hand_-_Construction_on_site%3B_Placa_de_la_Merce_is_slowly_transformed_files/shapeimage_1.png" left="0px" top="0px" width="572px" height="84px"/>
+</content>

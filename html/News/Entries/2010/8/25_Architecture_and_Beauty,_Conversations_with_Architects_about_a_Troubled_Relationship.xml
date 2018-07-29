@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="18AB6F0F-6F0E-413B-B234-E6DA6B3EE4EB">
+  <lastEdited clientType="local-build-20151002" date="2015-10-02 13:12:41 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;&#x201C;Architecture and Beauty, &#xD;Conversations with Architects about a Troubled Relationship&#x201D;&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, 25 August 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Our book &lt;b&gt;&#x201C;Architecture and Beauty, Conversations with Architects about a Troubled Relationship&#x201D;&lt;/b&gt; is now in bookstores worldwide. The book was written by Yael Reisner and Fleur Watson and is based on Yael Reisner&#x2019;s Research and Interviews with 16 influential architects.&#xD;Book cover text:&#xD;&lt;i&gt;What makes the world&#x2019;s top architects tick? Through discussions with 16 leading architects, including Frank Gehry, Zaha Hadid, Greg Lynn and Wolf Prix, unrivalled access is provided to the formative experiences, creative processes and motivations of some of the most influential design figures today. Through personal interviews with Yael Reisner, written up by Fleur Watson, the authors capture the voices, thoughts and personalities of their subjects. So rare and intimate are the insights that it is often akin to being a party to the very conversations themselves. The articles bring us up close to these creative minds with such widely differing positions and opinions, each expressing a very different point of view on aesthetics: whether they think beauty is integral or non-essential to architecture. Fascinating in what it tells us about individual architects and their work, most significantly Architecture and Beauty raises poignant issues regarding the place of beauty, aesthetics and self-expression within the psychology and the design process of the architectural avant-garde.&lt;/i&gt;&#xD;Click &lt;a href="http://yaelreisner.com/alsopChapter.pdf"&gt;here&lt;/a&gt; to download a sample of the book.&#xD;&lt;a href="http://www.amazon.co.uk/Architecture-Beauty-Conversations-Architects-Relationship/dp/0470997842/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1283525001&amp;sr=8-1"&gt;Buy on Amazon&lt;/a&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="25_Architecture_and_Beauty,_Conversations_with_Architects_about_a_Troubled_Relationship_files/shapeimage_1.png" left="0px" top="0px" width="572px" height="84px"/>
+</content>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="18AB6F0F-6F0E-413B-B234-E6DA6B3EE4EB">
+  <lastEdited clientType="local-build-20151002" date="2015-10-02 13:13:03 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Lecture @  University Of Innsbruck /studio3 Institut f&#xFC;r experimentelle Architektur&#xA0;- The Tangible Utopias Lecture Series, 24th June 2015  &lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_Lecture_%40_University_Of_Innsbruck__studio3_Institut_fur_experimentelle_Architektur-_The_Tangible_Utopias_Lecture_Series,_24th_June_2015_files/shapeimage_1.png" left="0px" top="0px" width="737px" height="109px"/>
+</content>

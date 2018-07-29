@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="18AB6F0F-6F0E-413B-B234-E6DA6B3EE4EB">
+  <lastEdited clientType="local-build-20151002" date="2015-10-02 13:13:05 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Symposium @ Thel Aviv University, School of Architecture, on Architecture and Beauty; A Troubled Relationship&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_Symposium_%40_Thel_Aviv_University,_School_of_Architecture,_on_Architecture_and_Beuty%3B_A_Troubled_Relationship_files/shapeimage_1.png" left="0px" top="0px" width="741px" height="109px"/>
+</content>

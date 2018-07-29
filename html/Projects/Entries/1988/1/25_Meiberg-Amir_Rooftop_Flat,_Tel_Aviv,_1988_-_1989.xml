@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="7592DFEB-C365-4333-98E7-CC9AEE606D19">
+  <lastEdited clientType="local-build-20151002" date="2015-10-02 13:13:12 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Meiberg-Amir Rooftop Flat, Tel Aviv, 1988 - 1989&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, 25 January 1988&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>My second project was to renovate and extend a flat on a roof top in the centre of Tel-Aviv, where the only good view was a wonderful tree landscape in the south. That tree became the main view of the flat's public space. Lines on the plans were orientated so as to increase the focus on the tree, and the flat was arranged to enhance this view.&#xD;I built a pergola on the roof that developed from the design concepts I came up with in Luciano Berio House, a project I designed as a student at the AA in 1985, but instead of the wooden pergola as in the southern elevation of the courtyard, I opted for a corten pergola ove here.&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&lt;b&gt;&#xD;&lt;/b&gt;&#xD;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="25_Meiberg-Amir_Rooftop_Flat,_Tel_Aviv,_1988_-_1989_files/shapeimage_1.png" left="0px" top="0px" width="572px" height="72px"/>
+</content>

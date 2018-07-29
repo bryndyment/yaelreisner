@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="7592DFEB-C365-4333-98E7-CC9AEE606D19">
+  <lastEdited clientType="local-build-20151002" date="2015-10-02 13:13:26 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;The Embrace Tables; Social Embrace, Embrace I+Embrace II &#x2013; 2nd prototype, March 2014  &lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, 6 March 2014&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="6_The_Embrace_Tables%3B_Embrace_I+II_2nd_prototype_files/shapeimage_1.png" left="0px" top="0px" width="572px" height="84px"/>
+</content>

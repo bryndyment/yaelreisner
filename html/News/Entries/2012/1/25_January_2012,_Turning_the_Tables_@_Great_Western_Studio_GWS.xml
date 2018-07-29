@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="18AB6F0F-6F0E-413B-B234-E6DA6B3EE4EB">
+  <lastEdited clientType="local-build-20151002" date="2015-10-02 13:12:47 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;January 2012,  Turning the Tables @ Great Western Studio_GWS&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, 25 January 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Opening:&#x2028;18.01.12 6:00 PM&#x2028;&#x2028;Exhibition:&#x2028;19th Jan - 18th Feb&#x2028;Monday - Friday&#x2028;10 - 6pm&#x2028;Free admission&#xA0;&#x2028;&#x2028;Location:&#x2028;Great Western Studios&#x2028;65 Alfred Road&#x2028;London, W2 5EU&#xA0;&#x2028;Contact us t. 020 7221 0100&#x2028;&#x2028;Curator:&#x2028;Yael Reisner (&lt;a href="http://www.yaelreisner.com"&gt;www.yaelreisner.com&lt;/a&gt;)&#x2028;&#x2028;Participants:&#xD;&lt;i&gt;The laid table,&lt;/i&gt;&#xA0;Will Alsop&#xD;&lt;i&gt;Mimosa,&lt;/i&gt;&#xA0;Jason Bruges Studio&#xA0;&#x2028;&lt;i&gt;Drawing instruments,&lt;/i&gt;&#xA0;Nat Chard&#xA0;&#xD;&lt;i&gt;Phable,&#xA0;&lt;/i&gt;Cinimod&#xD;&lt;i&gt;Social Embrace,&#xA0;&lt;/i&gt;Peter Cook&#xA0;and Yael Reisner&lt;i&gt;&#xA0;&lt;/i&gt;&#x2028;&lt;i&gt;stressDESK,&#xA0;&lt;/i&gt;Bernd Felsinger&lt;i&gt;&#xA0;&lt;/i&gt;&#x2028;&lt;i&gt;The indesructible,&lt;/i&gt;&#xA0;Pablo Gill and Jaime Bartolome&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xD;&lt;i&gt;8x4=2,&#xA0;&lt;/i&gt;Barnaby Gunning&#xD;&lt;i&gt;The tree of dining,&#xA0;&lt;/i&gt;Helen and Hard&#xD;&lt;i&gt;Labour of wood&lt;/i&gt;, Sandra Knoebl and Rudolf Knoebl&#xD;&lt;i&gt;Nurbster II,&#xA0;&lt;/i&gt;marcosandmarjan&#xD;&lt;i&gt;The sleep of reason brings forth take-away,&#xA0;&lt;/i&gt;&#xA0;Naja-deOstos&#xD;&lt;i&gt;Stress out,&lt;/i&gt;&#xA0;sixteen* (makers)&#xD;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="25_January_2012,_Turning_the_Tables_%40_Great_Western_Studio_GWS_files/shapeimage_1.png" left="0px" top="0px" width="572px" height="84px"/>
+</content>

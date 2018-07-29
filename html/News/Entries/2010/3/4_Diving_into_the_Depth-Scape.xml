@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="18AB6F0F-6F0E-413B-B234-E6DA6B3EE4EB">
+  <lastEdited clientType="local-build-20151002" date="2015-10-02 13:12:41 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Diving into the Depth-Scape&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, 4 March 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>At the AD magazine issue  - March 2010 -&lt;b&gt; &lt;/b&gt;Exuberance: New Virtuosity in Contemporary Architecture (Architectural Design)&#xA0;, edited by Marjan Colletti, &lt;b&gt; &lt;/b&gt;Reisner contributed an article entitled:  &#x201C;Diving into the Depth-Scape: Exuberance and Personalities&#x201D;&#xD;&#xD;This title of AD heralds a new era of exuberance in digital design. Having overcome the alienation and otherness of the cyber, having mastered the virtual qualities and protocols of the parametric, having achieved the intricacy and elegance of the digital, and having fully embraced the potential of 3d computer software and cad/cam manufacturing technologies, it is now time for architects to show off!&#xD;Conjure up the extravagance of furniture design, the abundance of cgi in Hollywood, the profuseness of bio&#x2013;techno ornamentation or the lavishness of Middle&#x2013;Eastern and Asian super&#x2013;urbanism. Exuberance not only celebrates new Baroque theatricality, formal sophistication and digital virtuosity; it also debates a plethora of joyful and intelligent ways in which experimental architecture manages to cope with the contemporary turmoil in global politics, economics and ecology.&#xD;&#xD;Publication Date:&#xA0;&lt;b&gt;19 Mar 2010&lt;/b&gt;&#xA0;| ISBN-10:&lt;b&gt;&#xA0;0470717149&#xA0;&lt;/b&gt;| ISBN-13:&lt;b&gt;&#xA0;978-0470717141&lt;/b&gt;&#xD;&#xD;&lt;i&gt;Architectural Design&lt;/i&gt;&#xD;&lt;i&gt;Volume 80 Issue 2, Pages 32-39&lt;/i&gt;&#xD;&lt;i&gt;Special Issue: Exuberance: New Virtuosity in Contemporary Architecture&lt;/i&gt;&#xD;&lt;i&gt;Published Online: 4 Mar 2010&lt;/i&gt;&#xD;&lt;i&gt;Copyright 2010 John Wiley &amp; Sons, Ltd.&lt;/i&gt;&#xD;&lt;a href="http://www.amazon.co.uk/Exuberance-Virtuosity-Contemporary-Architecture-Architectural/dp/0470717149"&gt;Buy on Amazon&lt;/a&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="4_Diving_into_the_Depth-Scape_files/shapeimage_1.png" left="0px" top="0px" width="572px" height="84px"/>
+</content>

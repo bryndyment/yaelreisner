@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="7592DFEB-C365-4333-98E7-CC9AEE606D19">
+  <lastEdited clientType="local-build-20151002" date="2015-10-02 13:13:12 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;'Extending the Tel Aviv Promenade into the Sea', Exhibition, 1991&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, 25 January 1991&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;The following image was added in 2004 as part of the Israeli Pavilion for the 9th Biannale of Architecture in Venice&#xD;&lt;/b&gt;&#xD;The Pavilion's theme "Back to the Sea" looked at significant projects developed for the Tel Aviv-Jaffa coastline &#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&lt;b&gt;&#xD;&lt;/b&gt;&#xD;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="25_Extending_the_Tel_Aviv_Promenade_into_the_Sea,_Exhibition,_1991_files/shapeimage_1.png" left="0px" top="0px" width="572px" height="72px"/>
+</content>

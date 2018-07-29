@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="18AB6F0F-6F0E-413B-B234-E6DA6B3EE4EB">
+  <lastEdited clientType="local-build-20151002" date="2015-10-02 13:12:48 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;@ SCI-Arc Moderating the Symposium Architecture and Beauty; A Troubled Relationship, 15th September, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, 15 September 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;&#xD;&#x2028;&lt;/b&gt;direct  link  to the lecture + symposium:&#xD;&lt;a href="http://www.sciarc.edu/sciarc_player.html?vid=http://www.sciarclive.com/Lectures/2010_09_15_Architecturebeauty.flv&amp;title=Architecture%20and%20Beauty%20Symposium"&gt;http://www.sciarc.edu/sciarc_player.html?vid=http://www.sciarclive.com/Lectures/2010_09_15_Architecturebeauty.flv&amp;title=Architecture%20and%20Beauty%20Symposium&lt;/a&gt;&#xD;&#xD;link to the website on the event:&#xD;&lt;a href="http://www.sciarc.edu/lectures.php?date=2010-09-15"&gt;http://www.sciarc.edu/lectures.php?date=2010-09-15&lt;/a&gt;&#xA0;&#xD;&lt;b&gt;&#x2028;&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="15_%40_SCI-Arc_Moderating_the_Symposium_Architecture_and_Beauty%3B_A_Troubled_Relationship,_15th_September,_2010_files/shapeimage_1.png" left="0px" top="0px" width="572px" height="84px"/>
+</content>

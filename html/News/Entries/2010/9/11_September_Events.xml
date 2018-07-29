@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="18AB6F0F-6F0E-413B-B234-E6DA6B3EE4EB">
+  <lastEdited clientType="local-build-20151002" date="2015-10-02 13:12:43 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;September Events&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, 11 September 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;a href="http://3.bp.blogspot.com/_kbJIdfqx1aY/TH_E1mFzSyI/AAAAAAAAAFk/gpZ04R_c90w/s1600/affisch+A3+v3+exp+reduced.jpg"&gt;(Click to enlarge)&lt;/a&gt;&#xD;&#x2028;&#xD;&lt;b&gt;&#x2028;&#x2028;&lt;/b&gt;On the 15th I will then be chairing a symposium entitled &#x201C;Architecture and Beauty, A troubled Relationship&#x201D; at Sci-Arc, (Southern California School of Architecture) in Los Angeles.&#xD;See the &lt;a href="http://www.sciarc.edu/lectures.php?date=2010-09-15"&gt;Sci-Arc website&lt;/a&gt; for more information and an online broadcast.&#xD;&#x2028;&#xD;&#xD;&lt;b&gt;&#x2028;&lt;/b&gt;And for the autumn term of the &lt;a href="http://www.aaschool.ac.uk/"&gt;Architectural Association&lt;/a&gt; I will be doing an 8 week Seminar called &#x201C;The Troubled Relationship between Architecture and Appearance in the last 80 years&#x201D;.</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_September_Events_files/shapeimage_1.png" left="0px" top="0px" width="572px" height="84px"/>
+</content>

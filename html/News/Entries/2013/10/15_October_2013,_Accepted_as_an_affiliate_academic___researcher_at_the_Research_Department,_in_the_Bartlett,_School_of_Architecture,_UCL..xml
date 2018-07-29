@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="18AB6F0F-6F0E-413B-B234-E6DA6B3EE4EB">
+  <lastEdited clientType="local-build-20151002" date="2015-10-02 13:12:55 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;October 2013,  Accepted as an affiliate academic / researcher at the Research Department, in the Bartlett, School of Architecture, UCL.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, 15 October 2013&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#x2028;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="15_October_2013,_Accepted_as_an_affiliate_academic___researcher_at_the_Research_Department,_in_the_Bartlett,_School_of_Architecture,_UCL._files/shapeimage_1.png" left="0px" top="0px" width="572px" height="84px"/>
+</content>

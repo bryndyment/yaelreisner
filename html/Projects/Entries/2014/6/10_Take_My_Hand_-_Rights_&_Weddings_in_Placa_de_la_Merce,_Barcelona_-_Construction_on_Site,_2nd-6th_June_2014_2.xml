@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="7592DFEB-C365-4333-98E7-CC9AEE606D19">
+  <lastEdited clientType="local-build-20151002" date="2015-10-02 13:13:31 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Take My Hand - Rights &amp; Weddings, Placa de la Merce, Barcelona - 10th June to 11th September 2014&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="10_Take_My_Hand_-_Rights_%26_Weddings_in_Placa_de_la_Merce,_Barcelona_-_Construction_on_Site,_2nd-6th_June_2014_2_files/shapeimage_1.png" left="0px" top="0px" width="571px" height="84px"/>
+</content>

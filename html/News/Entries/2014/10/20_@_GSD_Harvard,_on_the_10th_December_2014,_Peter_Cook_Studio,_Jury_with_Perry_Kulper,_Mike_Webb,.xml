@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="18AB6F0F-6F0E-413B-B234-E6DA6B3EE4EB">
+  <lastEdited clientType="local-build-20151002" date="2015-10-02 13:13:02 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;@ GSD Harvard - Peter Cook Studio; invited for a JURY with Perry Kulper, Mike Webb and Mack Scogin, Benjamin Farnsworth.                                         10th December 2014&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="20_%40_GSD_Harvard,_on_the_10th_December_2014,_Peter_Cook_Studio,_Jury_with_Perry_Kulper,_Mike_Webb,_files/shapeimage_1.png" left="0px" top="0px" width="695px" height="109px"/>
+</content>

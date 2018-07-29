@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="18AB6F0F-6F0E-413B-B234-E6DA6B3EE4EB">
+  <lastEdited clientType="local-build-20151002" date="2015-10-02 13:13:02 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Lecture  @  Kuma Lab,  University of Tokyo,  The Department of Architecture, Faculty of Engineering,  20th December 2014&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="17_Lecture_%40_Kuma_Lab,_University_of_Tokyo,_The_Department_of_Architecture,_Faculty_of_Engineering,20th_December_2014_files/shapeimage_1.png" left="0px" top="0px" width="742px" height="109px"/>
+</content>

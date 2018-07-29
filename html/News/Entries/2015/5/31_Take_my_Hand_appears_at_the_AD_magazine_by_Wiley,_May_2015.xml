@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="18AB6F0F-6F0E-413B-B234-E6DA6B3EE4EB">
+  <lastEdited clientType="local-build-20151002" date="2015-10-02 13:13:05 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;&lt;i&gt;Take my Hand&lt;/i&gt;&lt;/b&gt;&lt;b&gt; Installation &lt;/b&gt;appears at the AD magazine by Wiley, May 2015&#xD;&#xD;Entitled: &#xD;&#xD;&lt;b&gt;&lt;i&gt;Pavilions, Pop Ups and Parasols, The Impact of Real and Virtual Meeting on Physical Space&#xD;&lt;/i&gt;&lt;/b&gt;&#xD;&#xD;Guest editors:&#xD; &#xD;Leon van Schaik &#xD;&amp;&#xD;Fleur Watson</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="31_Take_my_Hand_appears_at_the_AD_magazine_by_Wiley,_May_2015_files/shapeimage_1.png" left="0px" top="0px" width="408px" height="109px"/>
+</content>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="18AB6F0F-6F0E-413B-B234-E6DA6B3EE4EB">
+  <lastEdited clientType="local-build-20151002" date="2015-10-02 13:12:52 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;@ Lund Univ. Sweden, Conference: Architecture and Beauty; A Troubled Relationship&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, 11 September 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;a href="http://3.bp.blogspot.com/_kbJIdfqx1aY/TH_E1mFzSyI/AAAAAAAAAFk/gpZ04R_c90w/s1600/affisch+A3+v3+exp+reduced.jpg"&gt;(Click to enlarge)&lt;/a&gt;&#xD;&#x2028;&#xD;Two day conference on &#x201C;Architecture and Beauty&#x201D; in Lund, Sweden, triggered by the book itself and featuring many of its interviewees.&#xD;Broadcast of the event at &lt;a href="http://www.lu.se/lund-university"&gt;http://www.lu.se/lund-university&lt;/a&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_%40_Lund_Univ._Sweden,_Conference__Architecture_and_Beauty%3B_A_Troubled_Relationship_files/shapeimage_1.png" left="0px" top="0px" width="572px" height="84px"/>
+</content>
